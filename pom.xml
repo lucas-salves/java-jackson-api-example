@@ -18,6 +18,11 @@
 	</properties>
 	<dependencies>
 		<dependency>
+		    <artifactId>jackson-databind</artifactId>
+  		    <groupId>com.fasterxml.jackson.core</groupId>
+  			<version>2.10.2</version>
+		</dependency>
+		<dependency>
   		    <groupId>junit</groupId>
 		    <artifactId>junit</artifactId>
   			<version>4.13.2</version>
